@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yekaeshahk.tekstavontuur.nl/sitemap.xml
